@@ -1,1 +1,1 @@
-inicio del proyecto de guía de hoteles
+inicio del proyecto de recomendaciones de películas
